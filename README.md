@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **ajay260505@gmail.com**
 
-- ⚡ Fun fact **I've attended three total solar eclipses! 🌑🔭**
+- ⚡ Fun fact **I've attended three solar eclipses! 🌑🔭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
