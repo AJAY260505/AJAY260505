@@ -13,7 +13,7 @@
 
 - Reach me at **ajayjofficial@gmail.com**
 
-- 📄 Know more about me [https://ajayjaisankar.com/](https://ajayjaisankar.com/)
+- 📄 Know more about me [https://ajayjaisankar.com/](ajayjaisankar.com/)
 
 - ⚡ Fun fact **I've attended three solar eclipses! 🌑🔭**
 
