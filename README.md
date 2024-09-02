@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Bloodbank application**
 
-- 🌱 I’m currently learning **ReactJS,NodeJS**
+- 🌱 I’m currently learning **Rest API ,NodeJS**
 
 - 🤝 I’m looking for help with **Bloodbank application**
 
