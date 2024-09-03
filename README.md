@@ -24,7 +24,7 @@
 <a href="https://twitter.com/ajay260505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajay260505" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajayj2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayj2005" height="30" width="40" /></a>
 <a href="https://instagram.com/p_h_o_.e._n_i_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_h_o_.e._n_i_x" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajay26052005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajay26052005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ajayjaisankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajay26052005" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
