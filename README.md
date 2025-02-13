@@ -50,7 +50,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AJAY260505&theme=dark&hide_border=false)<br/>
 
 
-### 🐍 Contribution Snake (Dark Mode)
+
 ![GitHub Contribution Snake Dark](https://github.com/AJAY260505/AJAY260505/blob/main/github-user-contribution.svg)
 
 
