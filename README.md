@@ -51,7 +51,7 @@
 
 
 ### 🐍 Contribution Snake (Dark Mode)
-![GitHub Contribution Snake Dark](https://github.com/AJAY260505/AJAY260505/blob/output/github-snake-dark.svg)
+![GitHub Contribution Snake Dark](https://github.com/AJAY260505/AJAY260505/blob/main/github-user-contribution.svg)
 
 
 ### ✍️ Random Dev Quote
