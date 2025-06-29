@@ -8,10 +8,8 @@
 - 🔭 Currently working on Laundry Management System.
 
 - 🌱  Learning Advanced Rest APIs & NodeJS.
-
-- 🤝 Looking for collaborators for Blood Bank Application
   
-- 💬 Ask me about Web, Mobile, and AI Development!
+- 💬 Ask me about Web and AI Development!
 
 - 📩 Reach me at ajayjofficial@gmail.com.
 
@@ -48,10 +46,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AJAY260505&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AJAY260505&theme=dark&hide_border=false)<br/>
-
-
-
-![GitHub Contribution Snake Dark](https://github.com/AJAY260505/AJAY260505/blob/main/github-user-contribution.svg)
+![snake gif](https://github.com/AJAY260505/AJAY260505/blob/output/github-snake-dark.svg)
 
 
 ### ✍️ Random Dev Quote
