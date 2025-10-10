@@ -1,53 +1,98 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+;+I'm+Ajay&color=FF6F61" />
-</h1>
-<h3 align="center">🎯 AI & Full Stack Developer | Passionate about building scalable applications.</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E94560&height=100&section=header&text=ようこそ！👋&fontColor=fff&fontAlignY=35&fontSize=40"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay260505&label=Profile%20views&color=0e75b6&style=flat" alt="ajay260505" /> </p>
+<div align="center">
 
-- 🔭 Currently working on Laundry Management System.
+<h1>こんにちは、アジェイです 🇯🇵</h1>
+<p><em>"Coding with discipline, learning with passion, dreaming in Japanese."</em></p>
 
-- 🌱  Learning Advanced Rest APIs & NodeJS.
-  
-- 💬 Ask me about Web and AI Development!
+<img src="https://media.giphy.com/media/l3vR7gXvhwJp2HE2Y/giphy.gif" width="180" alt="Sakura petals" />
 
-- 📩 Reach me at ajayjofficial@gmail.com.
+</div>
 
-- 📄 More about me at ajayjaisankar.com.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ajay260505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajay260505" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajayj2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayj2005" height="30" width="40" /></a>
-<a href="https://instagram.com/p_h_o_.e._n_i_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_h_o_.e._n_i_x" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajayjaisankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajay26052005" height="30" width="40" /></a>
+### 🌸 **About Me（自己紹介）**
+
+- 💼 Final Year CS Graduate  
+- 🧠 Currently Learning: Machine Learning & AI  
+- 💬 Language Goals: 日本語 (JLPT N4 prep)  
+- 🤝 Open Source & Research Collaboration Enthusiast  
+- 🎯 2025 Goals: Master Backend + Learn Japanese + Level Up in DSA  
+
+> _“成長は痛みを伴う。でもそれが進化の証だ。”_  
+> (“Growth is painful, but it’s proof of evolution.”)
+
+---
+
+### 🗾 **Socials（ソーシャルリンク）**
+<div align="center">
+<a href="https://instagram.com/ajayj_26" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF66B2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ajayjaisankar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/AJAY260505" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</div>
+
+---
+
+### 💻 **Tech Stack（技術スタック）**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,javascript,typescript,react,next,nodejs,mongodb,mysql,docker,azure,git,bash,linux,postman&perline=9" />
+</div>
+
+---
+
+### 📊 **GitHub Stats（統計）**
+<div align="center">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJAY260505&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AJAY260505&theme=tokyonight&show_icons=true&hide_border=false" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=AJAY260505&theme=tokyonight" />
+</div>
+
+---
+
+### 🥋 **Achievements（実績）**
+<div align="center">
+
+🏆 **Smart India Hackathon 2023 – Finalist**  
+🚀 **Unnat Bharat Abhiyan 2024 – Selected Project**  
+🔬 **Research Collaboration: Nexacrise × Nagoya Institute of Technology**  
+🎓 **AI Research: Motor Fault Diagnosis using Acoustic Signals**
+
+</div>
+
+---
+
+### 🧧 **Certifications（認定）**
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:10px;">
+<img src="./assets/postman.png" width="85px" />
+<img src="./assets/6.png" width="85px" />
+<img src="./assets/1.png" width="85px" />
+<img src="./assets/2.png" width="85px" />
+<img src="./assets/3.png" width="85px" />
+<img src="./assets/4.png" width="85px" />
+<img src="./assets/5.png" width="85px" />
+<img src="./assets/7.png" width="85px" />
+<img src="./assets/8.png" width="85px" />
+</div>
+
+---
+
+### 🏮 **Trophies（トロフィー）**
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=AJAY260505&theme=tokyonight&no-frame=false&margin-w=10" />
+</div>
+
+---
+
+### 🎌 **Quote of the Day（今日の言葉）**
+> _「努力は必ず報われる」_  
+> *Effort will surely be rewarded.*
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AJAY260505&color=E94560" alt="Profile Views" />
 </p>
 
-# 💻 Tech Stack:
-### **Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E94560&height=90&section=footer"/>
 
-### **Backend & Databases:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### **Frameworks & Tools:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### **AI & ML:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-## 🎖️ Achievements
-- 🏆 **Smart India Hackathon 2023 Finalist**  
-- 🚀 **Unnat Bharat Abhiyan 2024 - Selected Project**  
-- 🔬 **Collaborating with Toyota Japan & Nagao University on Research**
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AJAY260505&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AJAY260505&theme=dark&hide_border=false)<br/>
-![snake gif](https://github.com/AJAY260505/AJAY260505/blob/output/github-snake-dark.svg)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<a href="https://app.daily.dev/ajayj"><img src="https://api.daily.dev/devcards/v2/th2iBadfnWspoS2X2jP0K.png?r=2d1&type=wide" width="652" alt="Ajay J's Dev Card"/></a>
