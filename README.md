@@ -73,6 +73,7 @@
 </div>
 
 ---
+### 🧧 **Certifications（認定）**
 
 <div align="center" class="cert-container">
   <!-- Row 1 -->
