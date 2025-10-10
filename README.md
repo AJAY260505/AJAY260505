@@ -23,10 +23,11 @@
 ### 🌐 **Find Me Online（ソーシャルリンク）**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" 
+  <img src="https://github.com/AJAY260505/AJAY260505/blob/main/assets/a-slowed.gif" 
        alt="Social GIF" 
        width="400"/>
 </p>
+
 
 <div align="center">
 <a href="https://instagram.com/ajayj_26" target="_blank">
