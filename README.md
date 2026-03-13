@@ -4,7 +4,6 @@
 <div align="center">
 <h1>⚔ こんにちは、私は アジェイ です 🇯🇵</h1>
 <p><em>"Konnichiwa, watashi wa Ajay desu" — Hello, I am Ajay</em></p>
-<p><em>"Where Code Meets Zen, and Dreams Speak in Japanese."</em></p>
 
 <img src="./assets/Imgur.gif" width="210" alt="Tokyo neon street" />
 </div>
@@ -15,7 +14,7 @@
 
 | About Me ||
 |----------|-------------|
-| <ul><li>💼 Final Year CS Graduate</li><li>🧠 Learning: Machine Learning + AI</li><li>💬 Studying Japanese (JLPT N4)</li><li>🤝 Collaborating on AI & Research Projects</li><li>🥅 2025 Vision: 「日本語 × DSA × Backend Mastery」</li></ul><blockquote><em>“努力は裏切らない” — <em>Doryoku wa uragiranai</em> — Effort never betrays.</em></blockquote> | <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alt="Samurai Animation" width="250"/> |
+| <ul><li>💼 Final Year CS Graduate</li><li>🧠 Learning: Machine Learning + AI</li><li>💬 Studying Japanese (JLPT N4)</li><li>🥅 2026 Vision: 「日本語 × ML × Backend Mastery」</li></ul><blockquote><em>“努力は裏切らない” — <em>Doryoku wa uragiranai</em> — Effort never betrays.</em></blockquote> | <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" alt="Samurai Animation" width="250"/> |
 
 
 ---
